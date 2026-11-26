@@ -1,0 +1,72 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module (2).pdf",
+ "page": 31,
+ "version": 1,
+ "trace": "_traces/ad702961c2cabf12-p31.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "31", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.1, 21.4, 317.6, 426.2],
+ "outlines": {
+  "line": {"rings": 218, "straight": {"n": 2374, "mm": 4942.9}, "curved": {"n": 545, "mm": 854.1}},
+  "text": {"rings": 304, "straight": {"n": 2509, "mm": 2959.1}, "curved": {"n": 609, "mm": 959.8}}
+ },
+ "circles": [
+  {"c": [131.4, 63.6], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [108.9, 63.5], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [97.9, 56.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 32,
+  "lines": [
+   {"mm": [25.5, 420.8, 51.0, 427.0], "text": "WAAC"},
+   {"mm": [82.5, 420.8, 122.2, 427.0], "text": "ayatama"},
+   {"mm": [142.1, 372.4, 183.3, 383.5], "text": "RaaTE Lisc"},
+   {"mm": [122.2, 363.6, 214.2, 369.8], "text": "EQUALIZER FICTER AMPLIF"},
+   {"mm": [101.5, 363.6, 119.0, 368.4], "text": "45125"},
+   {"mm": [69.7, 336.8, 112.5, 343.0], "text": "DES-ZiPTION"},
+   {"mm": [264.9, 336.8, 290.4, 343.0], "text": "NUMEEF"},
+   {"mm": [69.7, 324.1, 96.7, 328.9], "text": "Rsar"},
+   {"mm": [179.2, 322.6, 204.7, 328.8], "text": "Phillos"},
+   {"mm": [68.2, 314.6, 91.3, 324.9], "text": "0fiet="},
+   {"mm": [69.7, 303.6, 96.7, 308.4], "text": "Ruatalar"},
+   {"mm": [69.7, 282.8, 90.5, 289.1], "text": "delete"},
+   {"mm": [69.7, 268.6, 104.7, 274.8], "text": "Integricc_"},
+   {"mm": [109.5, 270.1, 133.2, 274.9], "text": "Cac"},
+   {"mm": [179.2, 270.1, 204.7, 274.9], "text": "Narign?"},
+   {"mm": [228.4, 270.1, 252.2, 274.9], "text": "LMtua"},
+   {"mm": [228.4, 243.3, 255.4, 249.6], "text": "LmiasBM"},
+   {"mm": [228.4, 230.6, 252.2, 235.4], "text": "LhroM"},
+   {"mm": [228.4, 224.3, 255.4, 229.1], "text": "Masan"},
+   {"mm": [275.9, 55.5, 306.1, 84.0], "text": "aps"},
+   {"mm": [139.7, 61.1, 201.4, 67.3], "text": "reciaceteni Doria"},
+   {"mm": [252.2, 61.1, 282.4, 67.3], "text": "sdecilid"},
+   {"mm": [58.7, 61.1, 76.2, 65.9], "text": "reccm"},
+   {"mm": [41.2, 54.6, 88.7, 59.4], "text": "Manuimallicer"},
+   {"mm": [106.2, 54.6, 139.5, 59.4], "text": "cnlinbud"},
+   {"mm": [150.7, 54.6, 169.7, 59.4], "text": "(umtturin"},
+   {"mm": [180.9, 54.6, 247.4, 59.4], "text": "uipmcnt Pertocmam"},
+   {"mm": [144.4, 21.4, 161.9, 27.6], "text": "4-1Z0"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–318 mm across, 21–426 mm up",
+  "- **Outlines:** line 218 rings, 2,374 straight (4,943 mm) / 545 curved (854 mm); text 304 rings, 2,509 straight (2,959 mm) / 609 curved (960 mm)",
+  "- **Circles and arcs:** 3 circles, 0 arcs; largest r 1.7 @ (131.4, 63.6), r 1.7 @ (108.9, 63.5), r 1.7 @ (97.9, 56.7)",
+  "- **Words (OCR):** 32 in 28 lines: WAAC · ayatama · RaaTE Lisc · EQUALIZER FICTER AMPLIF · 45125 · DES-ZiPTION · NUMEEF · Rsar · Phillos · 0fiet= · Ruatalar · delete"
+ ]
+}

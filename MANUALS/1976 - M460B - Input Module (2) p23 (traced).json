@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module (2).pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/ad702961c2cabf12-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [-0.1, 0.0, 306.1, 425.3],
+ "outlines": {
+  "line": {"rings": 223, "straight": {"n": 2312, "mm": 5442.1}, "curved": {"n": 451, "mm": 700.0}},
+  "text": {"rings": 217, "straight": {"n": 1640, "mm": 1791.8}, "curved": {"n": 479, "mm": 770.0}}
+ },
+ "circles": [{"c": [110.5, 321.6], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 57,
+  "lines": [
+   {"mm": [151.6, 371.3, 188.9, 376.6], "text": "PART LIST"},
+   {"mm": [129.5, 358.2, 210.5, 363.5], "text": "13+109 AMPLI FIE SER IES"},
+   {"mm": [46.9, 331.2, 53.1, 336.5], "text": "Al"},
+   {"mm": [64.1, 331.2, 73.4, 336.5], "text": "arl"},
+   {"mm": [92.8, 331.2, 123.5, 336.5], "text": "pe 13-109"},
+   {"mm": [135.6, 331.2, 147.0, 336.5], "text": "ce pt"},
+   {"mm": [172.1, 331.2, 176.6, 336.5], "text": "te"},
+   {"mm": [189.6, 331.2, 198.4, 336.5], "text": "elo"},
+   {"mm": [46.6, 304.4, 53.8, 312.1], "text": "cs"},
+   {"mm": [87.2, 303.8, 109.5, 310.2], "text": "p~c it or"},
+   {"mm": [137.3, 304.2, 143.4, 309.5], "text": "pF"},
+   {"mm": [46.6, 298.4, 56.3, 308.0], "text": "CO,"},
+   {"mm": [79.2, 285.2, 122.4, 290.5], "text": "Re si stor 1!4W"},
+   {"mm": [139.3, 285.2, 149.2, 290.5], "text": "2K4"},
+   {"mm": [47.1, 146.2, 88.1, 153.4], "text": "was ec mme"},
+   {"mm": [104.7, 146.4, 137.5, 151.7], "text": "th us of"},
+   {"mm": [149.8, 146.4, 276.6, 151.7], "text": "pl acem ent part ma de by the 5pe ci ie"},
+   {"mm": [47.1, 139.7, 102.8, 145.0], "text": "m\"nurac turer fo"},
+   {"mm": [114.2, 139.7, 171.2, 145.0], "text": "ontinued op tim um"},
+   {"mm": [188.3, 139.7, 201.4, 145.0], "text": "ip me"},
+   {"mm": [212.9, 139.7, 251.5, 145.0], "text": "perform\"nce"},
+   {"mm": [290.2, 76.6, 310.7, 85.8], "text": "ca"},
+   {"mm": [267.3, 53.5, 289.1, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.7, 24.0, 258.6, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–306 mm across, 0–425 mm up",
+  "- **Outlines:** line 223 rings, 2,312 straight (5,442 mm) / 451 curved (700 mm); text 217 rings, 1,640 straight (1,792 mm) / 479 curved (770 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.2 @ (110.5, 321.6)",
+  "- **Words (OCR):** 57 in 25 lines: PART LIST · 13+109 AMPLI FIE SER IES · Al · arl · pe 13-109 · ce pt · te · elo · cs · p~c it or · pF · CO,"
+ ]
+}

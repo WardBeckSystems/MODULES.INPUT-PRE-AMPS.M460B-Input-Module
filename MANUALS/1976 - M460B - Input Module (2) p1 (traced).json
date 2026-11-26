@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/ad702961c2cabf12-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.0, 13.2, 310.5, 425.1],
+ "outlines": {
+  "line": {"rings": 68, "straight": {"n": 1237, "mm": 3713.9}, "curved": {"n": 180, "mm": 286.1}},
+  "text": {"rings": 85, "straight": {"n": 1054, "mm": 1487.5}, "curved": {"n": 260, "mm": 416.1}},
+  "tb": {"rings": 7, "straight": {"n": 93, "mm": 138.4}, "curved": {"n": 15, "mm": 25.5}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [119.0, 411.3, 280.7, 418.7], "text": "WARD-BECK SYSTEMS LTD"},
+   {"mm": [43.0, 400.3, 280.2, 416.4], "text": "(VVElS] _1\"I'IC:GFle:S8 Ave_. ~c:NT;>FIO \"\"''''ll''''"},
+   {"mm": [135.6, 399.6, 166.2, 403.9], "text": "'OII- :z3oIe1l"},
+   {"mm": [206.6, 399.6, 280.5, 404.2], "text": "T'l!l.ZPHONl!, el..:ae-ee1:tO"},
+   {"mm": [132.1, 244.8, 196.5, 255.6], "text": "M460B"},
+   {"mm": [133.4, 233.2, 196.5, 239.6], "text": "INPUT MOD ULE"},
+   {"mm": [290.2, 76.6, 310.7, 85.8], "text": "ca"},
+   {"mm": [267.3, 53.5, 289.1, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.7, 24.0, 258.6, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [112.3, 402.7, 261.2, 427.3],
+  "from": "title-block words (training set)",
+  "text": ["WARD-BECK SYSTEMS LTD", "(VVElS] _1\"I'IC:GFle:S8 Ave_. ~c:NT;>FIO \"\"''''ll''''"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–310 mm across, 13–425 mm up",
+  "- **Outlines:** line 68 rings, 1,237 straight (3,714 mm) / 180 curved (286 mm); text 85 rings, 1,054 straight (1,488 mm) / 260 curved (416 mm); tb 7 rings, 93 straight (138 mm) / 15 curved (25.5 mm)",
+  "- **Words (OCR):** 20 in 10 lines: WARD-BECK SYSTEMS LTD · (VVElS] _1\"I'IC:GFle:S8 Ave_. ~c:NT;>FIO \"\"''''ll'''' · 'OII- :z3oIe1l · T'l!l.ZPHONl!, el..:ae-ee1:tO · M460B · INPUT MOD ULE · ca · BS · tp · ht",
+  "- **Title block:** (112, 403)–(261, 427) mm: WARD-BECK SYSTEMS LTD · (VVElS] _1\"I'IC:GFle:S8 Ave_. ~c:NT;>FIO \"\"''''ll''''"
+ ]
+}

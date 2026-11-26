@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module (2).pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/ad702961c2cabf12-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [26.9, 19.4, 330.1, 424.5],
+ "outlines": {
+  "line": {"rings": 219, "straight": {"n": 2424, "mm": 5220.2}, "curved": {"n": 500, "mm": 801.2}},
+  "text": {"rings": 221, "straight": {"n": 1731, "mm": 1842.2}, "curved": {"n": 422, "mm": 682.9}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 45,
+  "lines": [
+   {"mm": [112.7, 356.2, 221.5, 361.5], "text": "4_1 10 REAMP IGH_P ASS FIL TER"},
+   {"mm": [179.6, 316.1, 191.1, 321.4], "text": "Ph il"},
+   {"mm": [138.8, 309.6, 149.0, 314.4], "text": "7QK"},
+   {"mm": [72.1, 289.5, 80.5, 294.8], "text": "Int"},
+   {"mm": [98.7, 289.5, 131.7, 294.8], "text": "ed Circuit"},
+   {"mm": [71.2, 256.3, 96.7, 261.6], "text": "Se lected"},
+   {"mm": [133.2, 256.3, 164.9, 261.6], "text": "to le rance."},
+   {"mm": [290.2, 76.6, 310.7, 85.8], "text": "ca"},
+   {"mm": [42.7, 64.3, 92.0, 69.6], "text": "was ecommend"},
+   {"mm": [145.9, 64.3, 210.3, 69.6], "text": "pl acemen parts ma"},
+   {"mm": [222.8, 64.3, 240.1, 69.6], "text": "by th"},
+   {"mm": [268.4, 64.3, 272.5, 69.6], "text": "ie"},
+   {"mm": [42.7, 58.1, 203.2, 63.4], "text": "manuf act urer for continu ed op tim um equip me nt"},
+   {"mm": [216.5, 58.1, 240.7, 63.4], "text": "rform an"},
+   {"mm": [267.3, 53.5, 289.1, 65.1], "text": "BS"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.7, 24.0, 258.6, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 27–330 mm across, 19–424 mm up",
+  "- **Outlines:** line 219 rings, 2,424 straight (5,220 mm) / 500 curved (801 mm); text 221 rings, 1,731 straight (1,842 mm) / 422 curved (683 mm)",
+  "- **Words (OCR):** 45 in 17 lines: 4_1 10 REAMP IGH_P ASS FIL TER · Ph il · 7QK · Int · ed Circuit · Se lected · to le rance. · ca · was ecommend · pl acemen parts ma · by th · ie"
+ ]
+}

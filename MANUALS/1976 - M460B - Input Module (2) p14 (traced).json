@@ -1,0 +1,82 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module (2).pdf",
+ "page": 14,
+ "version": 1,
+ "trace": "_traces/ad702961c2cabf12-p14.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "14", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [26.6, 13.8, 330.5, 411.9],
+ "outlines": {
+  "line": {"rings": 345, "straight": {"n": 3019, "mm": 5722.1}, "curved": {"n": 642, "mm": 998.1}},
+  "text": {"rings": 350, "straight": {"n": 2524, "mm": 2769.1}, "curved": {"n": 761, "mm": 1225.2}}
+ },
+ "circles": [
+  {"c": [187.6, 353.8], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [89.9, 180.6], "r": 1.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 50,
+  "lines": [
+   {"mm": [69.3, 405.9, 104.1, 411.4], "text": "Cl< YST"},
+   {"mm": [126.3, 405.9, 143.1, 411.4], "text": "LTC."},
+   {"mm": [135.2, 350.2, 206.4, 355.2], "text": "/1014608 IN PUT MOOULE"},
+   {"mm": [229.5, 323.6, 285.4, 328.7], "text": "MFG PAR NUM8E"},
+   {"mm": [72.8, 310.9, 98.9, 315.9], "text": "Res istor"},
+   {"mm": [181.6, 310.5, 204.7, 315.5], "text": "Ph ilips"},
+   {"mm": [44.7, 300.1, 55.3, 312.1], "text": "'5O"},
+   {"mm": [77.3, 304.2, 87.7, 309.2], "text": "elet"},
+   {"mm": [72.8, 297.5, 98.7, 302.5], "text": "Re si stor"},
+   {"mm": [109.7, 297.5, 119.4, 302.5], "text": "6.W"},
+   {"mm": [149.0, 283.7, 158.0, 289.2], "text": "620"},
+   {"mm": [44.5, 272.7, 54.8, 284.7], "text": ".58"},
+   {"mm": [149.8, 267.1, 155.9, 274.7], "text": "is"},
+   {"mm": [44.7, 260.8, 56.8, 268.0], "text": "sec"},
+   {"mm": [149.0, 253.7, 155.0, 259.2], "text": "62"},
+   {"mm": [48.8, 247.6, 54.8, 253.2], "text": "62"},
+   {"mm": [44.7, 213.7, 56.6, 221.7], "text": "eee"},
+   {"mm": [149.0, 207.3, 158.0, 212.8], "text": "620"},
+   {"mm": [44.7, 197.5, 56.6, 205.2], "text": "nee"},
+   {"mm": [44.7, 191.1, 55.7, 198.3], "text": "aes"},
+   {"mm": [149.0, 183.7, 160.8, 191.6], "text": "ezc"},
+   {"mm": [82.9, 177.3, 90.2, 182.3], "text": "\"te"},
+   {"mm": [44.7, 171.2, 54.8, 176.7], "text": "R72"},
+   {"mm": [121.3, 150.9, 128.5, 158.1], "text": "51"},
+   {"mm": [72.5, 151.6, 90.9, 156.6], "text": "Re ist"},
+   {"mm": [109.5, 151.6, 119.2, 156.6], "text": "6.W"},
+   {"mm": [44.5, 131.9, 53.8, 137.0], "text": "R77"},
+   {"mm": [148.5, 114.4, 157.8, 119.9], "text": "620"},
+   {"mm": [47.9, 81.6, 55.1, 88.8], "text": "ea"},
+   {"mm": [290.2, 76.6, 310.7, 85.8], "text": "ca"},
+   {"mm": [43.8, 61.5, 55.3, 69.2], "text": "aee"},
+   {"mm": [267.3, 53.5, 289.1, 65.1], "text": "BS"},
+   {"mm": [43.8, 44.9, 55.3, 52.8], "text": "aea"},
+   {"mm": [148.5, 44.0, 158.3, 52.0], "text": "se"},
+   {"mm": [43.8, 38.2, 54.4, 45.9], "text": "ass"},
+   {"mm": [148.5, 37.8, 158.9, 45.7], "text": "s.e"},
+   {"mm": [44.0, 32.0, 54.0, 38.0], "text": "asc"},
+   {"mm": [244.8, 31.1, 263.4, 38.3], "text": "tp"},
+   {"mm": [237.7, 24.0, 258.6, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 27–330 mm across, 14–412 mm up",
+  "- **Outlines:** line 345 rings, 3,019 straight (5,722 mm) / 642 curved (998 mm); text 350 rings, 2,524 straight (2,769 mm) / 761 curved (1,225 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.2 @ (187.6, 353.8), r 1.6 @ (89.9, 180.6)",
+  "- **Words (OCR):** 50 in 39 lines: Cl< YST · LTC. · /1014608 IN PUT MOOULE · MFG PAR NUM8E · Res istor · Ph ilips · '5O · elet · Re si stor · 6.W · 620 · .58"
+ ]
+}

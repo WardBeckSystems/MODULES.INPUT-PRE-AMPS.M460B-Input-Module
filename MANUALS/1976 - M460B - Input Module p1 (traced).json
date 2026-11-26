@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/23bef2039d448eda-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.0, 13.2, 310.5, 425.1],
+ "outlines": {
+  "line": {"rings": 28, "straight": {"n": 663, "mm": 2966.1}, "curved": {"n": 64, "mm": 97.7}},
+  "text": {"rings": 130, "straight": {"n": 1699, "mm": 2366.7}, "curved": {"n": 389, "mm": 627.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 12,
+  "lines": [
+   {"mm": [119.0, 411.1, 282.4, 420.7], "text": "WAAD-BECK Systems LTD"},
+   {"mm": [50.1, 402.0, 282.0, 416.2], "text": "WES 841 PROGRESS AVENUE; SCARBCACUGH; CNTAFIO ^h2x4"},
+   {"mm": [117.9, 399.6, 167.1, 404.9], "text": "TeleX; 06-23469"},
+   {"mm": [206.0, 399.4, 281.3, 406.4], "text": "TELEFHCNE: 4181438-B330"},
+   {"mm": [131.7, 245.7, 197.5, 258.6], "text": "M460B"},
+   {"mm": [132.3, 233.2, 197.5, 241.3], "text": "INPUT MODULE"},
+   {"mm": [77.5, 12.1, 97.4, 17.4], "text": "DesiGN"},
+   {"mm": [98.7, 11.9, 250.9, 18.4], "text": "AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [112.3, 402.4, 262.9, 429.4],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK Systems LTD", "WES 841 PROGRESS AVENUE; SCARBCACUGH; CNTAFIO ^h2x4", "TeleX; 06-23469", "TELEFHCNE: 4181438-B330"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–310 mm across, 13–425 mm up",
+  "- **Outlines:** line 28 rings, 663 straight (2,966 mm) / 64 curved (97.7 mm); text 130 rings, 1,699 straight (2,367 mm) / 389 curved (628 mm)",
+  "- **Words (OCR):** 12 in 8 lines: WAAD-BECK Systems LTD · WES 841 PROGRESS AVENUE; SCARBCACUGH; CNTAFIO ^h2x4 · TeleX; 06-23469 · TELEFHCNE: 4181438-B330 · M460B · INPUT MODULE · DesiGN · AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUIPMENT",
+  "- **Title block:** (112, 402)–(263, 429) mm: WAAD-BECK Systems LTD · WES 841 PROGRESS AVENUE; SCARBCACUGH; CNTAFIO ^h2x4 · TeleX; 06-23469 · TELEFHCNE: 4181438-B330"
+ ]
+}

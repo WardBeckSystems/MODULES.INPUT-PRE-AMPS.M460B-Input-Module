@@ -1,0 +1,90 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M460B/MANUALS/1976 - M460B - Input Module.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/23bef2039d448eda-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1554, 2000],
+  "mm": [335.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "44"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 306.1, 425.3],
+ "outlines": {
+  "line": {"rings": 43, "straight": {"n": 850, "mm": 3723.6}, "curved": {"n": 83, "mm": 133.1}},
+  "text": {"rings": 390, "straight": {"n": 3043, "mm": 3512.3}, "curved": {"n": 836, "mm": 1320.9}},
+  "tb": {"rings": 4, "straight": {"n": 15, "mm": 15.3}, "curved": {"n": 5, "mm": 9.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [31.3, 414.5, 145.3, 421.5], "text": "WAAD-BeCX Systems LtC_"},
+   {"mm": [150.1, 371.3, 189.6, 378.3], "text": "PARTS List"},
+   {"mm": [128.5, 357.7, 212.2, 364.9], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [45.3, 343.9, 68.0, 352.1], "text": "8-109G"},
+   {"mm": [46.0, 331.6, 103.8, 338.5], "text": "AII parts as per"},
+   {"mm": [106.4, 331.6, 160.6, 338.5], "text": "8-109 except as"},
+   {"mm": [163.2, 332.3, 181.6, 337.5], "text": "noted"},
+   {"mm": [184.2, 332.1, 203.6, 338.5], "text": "below"},
+   {"mm": [46.0, 318.5, 63.3, 324.9], "text": "PART"},
+   {"mm": [77.7, 318.5, 117.2, 324.9], "text": "DESC IPT ION"},
+   {"mm": [186.3, 318.5, 199.7, 324.9], "text": "MFG"},
+   {"mm": [233.8, 318.5, 295.8, 325.4], "text": "MFG PART NUMBER"},
+   {"mm": [46.0, 305.5, 55.1, 312.0], "text": "C6"},
+   {"mm": [77.5, 304.2, 133.2, 312.4], "text": "Capacitor 4.7"},
+   {"mm": [136.0, 304.9, 144.7, 311.8], "text": "pF"},
+   {"mm": [185.7, 304.9, 210.5, 311.8], "text": "Philips"},
+   {"mm": [233.8, 304.9, 282.0, 311.8], "text": "2222-638-09478"},
+   {"mm": [46.0, 299.0, 57.4, 305.5], "text": "C11"},
+   {"mm": [46.0, 285.4, 58.3, 291.9], "text": "R1S"},
+   {"mm": [77.5, 285.4, 123.7, 292.3], "text": "Resistor 1/4w"},
+   {"mm": [137.7, 285.4, 150.1, 291.9], "text": "2K4"},
+   {"mm": [46.4, 146.4, 129.3, 153.3], "text": "WBS recommends the use"},
+   {"mm": [131.7, 146.4, 182.0, 153.3], "text": "of replacement"},
+   {"mm": [184.4, 145.7, 249.1, 153.4], "text": "parts made by the"},
+   {"mm": [251.3, 145.5, 282.4, 154.2], "text": "specified"},
+   {"mm": [46.0, 139.9, 107.5, 146.4], "text": "manufacturers for"},
+   {"mm": [109.7, 139.3, 255.4, 146.9], "text": "continued optimum equipment performance."},
+   {"mm": [154.4, 21.2, 186.1, 28.1], "text": "8-109-2-5"}
+  ]
+ },
+ "title_block": {
+  "mm": [39.7, 138.2, 151.9, 430.2],
+  "from": "title-block words (training set)",
+  "text": [
+   "WAAD-BeCX Systems LtC_",
+   "8-109G",
+   "AII parts as per",
+   "8-109 except as",
+   "PART",
+   "DESC IPT ION",
+   "C6",
+   "Capacitor 4.7",
+   "pF",
+   "C11",
+   "R1S",
+   "Resistor 1/4w",
+   "2K4",
+   "WBS recommends the use",
+   "manufacturers for"
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1554 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–306 mm across, 0–425 mm up",
+  "- **Outlines:** line 43 rings, 850 straight (3,724 mm) / 83 curved (133 mm); text 390 rings, 3,043 straight (3,512 mm) / 836 curved (1,321 mm); tb 4 rings, 15 straight (15.3 mm) / 5 curved (9.0 mm)",
+  "- **Words (OCR):** 48 in 28 lines: WAAD-BeCX Systems LtC_ · PARTS List · 8-109 AMPLIFIER SERIES · 8-109G · AII parts as per · 8-109 except as · noted · below · PART · DESC IPT ION · MFG · MFG PART NUMBER",
+  "- **Title block:** (40, 138)–(152, 430) mm: WAAD-BeCX Systems LtC_ · 8-109G · AII parts as per · 8-109 except as · PART · DESC IPT ION · C6 · Capacitor 4.7 · pF · C11 · R1S · Resistor 1/4w · 2K4 · WBS recommends the use · manufacturers for"
+ ]
+}
