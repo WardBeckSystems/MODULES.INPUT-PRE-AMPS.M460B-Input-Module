@@ -21,7 +21,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Words (OCR):** 104 in 95 lines: E2 · ~C1 33/10 · ~c3-8p ~R16 22k · R2-47k · LRI · 22k · RS 30K · ~Ri8 · ~R2i 4k7 · ~R2? 4K7 · ~R6 JBk · R2o470
 - **Title block:** (132, 3)–(432, 132) mm: ES · WBS · 8-109 · z2o/i2cl6; · #cis- · 22o/6 · Jelule · EO93_ 497 · AL · 2el Ish · 4008 · ML · ~R36 #K7 · ~R374K7 · REVISION · (IssUE DATE · APP · EC · WBS WARD-BECK BYBTEMS · DRN: GE B · 8 ~ 10QA · 
 
-Every curve, box, word and wire group: [1976 - M460B - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(traced).json) (the CAD file: `1976 - M460B - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 8-109-06-002 - OUTPUT AMPLIFIER (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1976 - M460B - 8-109-06-002 - OUTPUT AMPLIFIER (traced).dxf`).
 
 ## Full text
 

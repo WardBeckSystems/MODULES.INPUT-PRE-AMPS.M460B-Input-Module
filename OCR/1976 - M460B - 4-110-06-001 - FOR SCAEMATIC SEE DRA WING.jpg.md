@@ -21,7 +21,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Words (OCR):** 45 in 35 lines: 2 8 · 38 · 332k · 28 · 8393 · 9k · Dz! 22/@ · aj Av · 47ok · 33/12 · Itd · Ioles
 - **Title block:** (286, 7)–(389, 50) mm: WBS WARD-BECK · DDQ · Drn_ · 4-110 · DATEJOJUN74 · PRE-AMP/HP FILTER · cKD · EZ · COMPONENT LAYOUT
 
-Every curve, box, word and wire group: [1976 - M460B - 4-110-06-001 - FOR SCAEMATIC SEE DRA WING (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%204-110-06-001%20-%20FOR%20SCAEMATIC%20SEE%20DRA%20WING%20(traced).json) (the CAD file: `1976 - M460B - 4-110-06-001 - FOR SCAEMATIC SEE DRA WING (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 4-110-06-001 - FOR SCAEMATIC SEE DRA WING (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%204-110-06-001%20-%20FOR%20SCAEMATIC%20SEE%20DRA%20WING%20%28traced%29.json) (the CAD file: `1976 - M460B - 4-110-06-001 - FOR SCAEMATIC SEE DRA WING (traced).dxf`).
 
 ## Full text
 

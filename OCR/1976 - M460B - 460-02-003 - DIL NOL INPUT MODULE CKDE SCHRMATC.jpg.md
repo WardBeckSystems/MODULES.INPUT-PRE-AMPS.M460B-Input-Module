@@ -23,7 +23,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Words (OCR):** 2 in 2 lines: Dleec · NOTE
 - **Wiring (first pass):** 172 connected wire groups from 1,216 runs
 
-Every curve, box, word and wire group: [1976 - M460B - 460-02-003 - DIL NOL INPUT MODULE CKDE SCHRMATC (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%20460-02-003%20-%20DIL%20NOL%20INPUT%20MODULE%20CKDE%20SCHRMATC%20(traced).json) (the CAD file: `1976 - M460B - 460-02-003 - DIL NOL INPUT MODULE CKDE SCHRMATC (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 460-02-003 - DIL NOL INPUT MODULE CKDE SCHRMATC (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%20460-02-003%20-%20DIL%20NOL%20INPUT%20MODULE%20CKDE%20SCHRMATC%20%28traced%29.json) (the CAD file: `1976 - M460B - 460-02-003 - DIL NOL INPUT MODULE CKDE SCHRMATC (traced).dxf`).
 
 ## Full text
 

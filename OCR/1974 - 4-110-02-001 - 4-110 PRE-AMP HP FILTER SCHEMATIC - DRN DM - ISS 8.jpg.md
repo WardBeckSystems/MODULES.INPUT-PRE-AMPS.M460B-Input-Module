@@ -35,7 +35,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Title block:** (138, 5)–(420, 58) mm: ISS MOD ICKD: · USED ON · MATL - · WBS · WARD-BECK SYSTEMS LTD_ · 3 Ieodk · DRN Do · 4-110 · DATE8MARZ4 · FINISH · PRE-AMP/HP FILTER · ZIRc · CKD: L4 · [SCALE · SCHEMATIC · I391PKM
 - **Wiring (first pass):** 56 connected wire groups from 279 runs; labelled ends: 482 mm → C6, R2, ISk, AMPLIEIER; 351 mm → C4, Jsoho, E3, SENSITIVITYO; 342 mm → C12, 22/10, 94, 2N4403; 308 mm → #C9, 063, Ixcio, 33 pF; 202 mm → COMPONENT, E9, 0-21v
 
-Every curve, box, word and wire group: [1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8 (traced).json](../SCHEMATICS/1974%20-%204-110-02-001%20-%204-110%20PRE-AMP%20HP%20FILTER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%208%20(traced).json) (the CAD file: `1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8 (traced).json](../SCHEMATICS/1974%20-%204-110-02-001%20-%204-110%20PRE-AMP%20HP%20FILTER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%208%20%28traced%29.json) (the CAD file: `1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8 (traced).dxf`).
 
 ## Full text
 

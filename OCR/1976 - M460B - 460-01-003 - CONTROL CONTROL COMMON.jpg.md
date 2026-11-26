@@ -27,7 +27,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Title block:** (140, 4)–(384, 57) mm: ISS MOD [CKD_ · USED ON · MATL - · 83540 · WBS WARD-BECK · DRN DNM · M46O B · FINISH · DATE DEC  76 · INPUT · CKD Reeb · FUNCTIONAL DIAGRAM · SCALE · TOLS _ · 460 - 01-003
 - **Wiring (first pass):** 173 connected wire groups from 362 runs; labelled ends: 121 mm → CONTROL; 105 mm → PRE / Post; 79 mm → PHASE, ON; 66 mm → SOLO; 59 mm → REVERB, FB1, FB2, FB3
 
-Every curve, box, word and wire group: [1976 - M460B - 460-01-003 - CONTROL CONTROL COMMON (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%20460-01-003%20-%20CONTROL%20CONTROL%20COMMON%20(traced).json) (the CAD file: `1976 - M460B - 460-01-003 - CONTROL CONTROL COMMON (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 460-01-003 - CONTROL CONTROL COMMON (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%20460-01-003%20-%20CONTROL%20CONTROL%20COMMON%20%28traced%29.json) (the CAD file: `1976 - M460B - 460-01-003 - CONTROL CONTROL COMMON (traced).dxf`).
 
 ## Full text
 

@@ -28,7 +28,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Title block:** (343, 0)–(382, 32) mm: WBS WAAD- · DATE Pct 76 · SSCALE
 - **Wiring (first pass):** 105 connected wire groups from 707 runs; labelled ends: 393 mm → LTD, WBS, DATE; 197 mm → 233, Ok, 6<2, ed; 157 mm → 743, 6<2, R49; 149 mm → 233, Ok, R39, 620; 106 mm → 345, 2k2, 242, '065
 
-Every curve, box, word and wire group: [1976 - M460B - 4-126-02-001 - GCALE AMPLIFIER SCHEMATH (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%204-126-02-001%20-%20GCALE%20AMPLIFIER%20SCHEMATH%20(traced).json) (the CAD file: `1976 - M460B - 4-126-02-001 - GCALE AMPLIFIER SCHEMATH (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 4-126-02-001 - GCALE AMPLIFIER SCHEMATH (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%204-126-02-001%20-%20GCALE%20AMPLIFIER%20SCHEMATH%20%28traced%29.json) (the CAD file: `1976 - M460B - 4-126-02-001 - GCALE AMPLIFIER SCHEMATH (traced).dxf`).
 
 ## Full text
 

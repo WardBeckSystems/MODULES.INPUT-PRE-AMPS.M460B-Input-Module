@@ -26,7 +26,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Words (OCR):** 12 in 8 lines: WAAD-BECK Systems LTD · WES 841 PROGRESS AVENUE; SCARBCACUGH; CNTAFIO ^h2x4 · TeleX; 06-23469 · TELEFHCNE: 4181438-B330 · M460B · INPUT MODULE · DesiGN · AND MANUFACTURE Of PAOFESSIONAL AUDIO EQUIPMENT
 - **Title block:** (112, 402)–(263, 429) mm: WAAD-BECK Systems LTD · WES 841 PROGRESS AVENUE; SCARBCACUGH; CNTAFIO ^h2x4 · TeleX; 06-23469 · TELEFHCNE: 4181438-B330
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p1 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p1%20(traced).json) (the CAD file: `1976 - M460B - Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p1 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p1 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 151 in 98 lines: WAAD-BECX SYSTems · LtD · TECHNICAL DAIA · M4608 · INPUT_MODULE · Input · Sensitivities : Je · Line: · to · +10 dBm · (ref 600 ohm source · 50 to
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p2 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p2%20(traced).json) (the CAD file: `1976 - M460B - Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p2 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -45,7 +45,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p2 (traced).
 - **Outlines:** line 38 rings, 814 straight (2,941 mm) / 94 curved (156 mm); text 198 rings, 1,658 straight (1,932 mm) / 418 curved (661 mm)
 - **Words (OCR):** 55 in 39 lines: OT_ · WAAC-BeCX systems LtD_ · TECHNICAL · DAIA · M460B InPUT · MODULE · Ambient Temperature: · to · 60 degrees Celsius · Dimensions · 1 .6 " wide 14.15" high · 6.5" deep .
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p3 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p3%20(traced).json) (the CAD file: `1976 - M460B - Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p3 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p3 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 122 in 90 lines: WAAC · Bezk SYSTEMS LTD · JACUIL mescriptimm · 44job I"PUT "DCULF · Vacol · condinecion · Irit/CiLiZER Nocte · deniane · accert nput {19n1/5 0riginafing · nicronnane · scutce · processes
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p4 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p4%20(traced).json) (the CAD file: `1976 - M460B - Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p4 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p4 (traced).
 - **Words (OCR):** 301 in 161 lines: WAAD-BECX Systems LTD. · CIRCUIT DESCRIPIION · M460B · InPut · MODULE · Z1 · through 24 serve a 5 · mixing and · isolation · amplifiers · They · are
 - **Title block:** (19, 84)–(212, 424) mm: WAAD-BECX Systems LTD. · CIRCUIT DESCRIPIION · M460B · InPut · MODULE · Z1 · through 24 serve a 5 · mixing and · isolation · are · used to mix · the primary nput · s igna ] with · signa ] derived from
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p5 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p5%20(traced).json) (the CAD file: `1976 - M460B - Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p5 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p5 (traced).
 - **Outlines:** line 75 rings, 1,082 straight (3,677 mm) / 166 curved (283 mm); text 1,742 rings, 14,210 straight (15,787 mm) / 3,895 curved (6,161 mm)
 - **Words (OCR):** 231 in 136 lines: WAAC-EECk Systems LTD · CIRCUI_DESCRIPIION · M46OB · INPUI_MODULE · The three s igna ] s · which · Teave the 4-126 · filter are · "correction · s igna ] $ · either in-phase 180 · or
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p6 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p6%20(traced).json) (the CAD file: `1976 - M460B - Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p6 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -88,7 +88,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p6 (traced).
 - **Dots (junctions):** 2
 - **Words (OCR):** 258 in 111 lines: WAAC-EECX Systems · CIRCUII_DESCRIPIION · M46OB InPut · MODULE · CHANNEL on · Switch · The CHANNEL on switch · Sw21 contro]s a11 outputs · 0 f the module · with the exception 0 f tne · PFL output · FADER
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p7 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p7%20(traced).json) (the CAD file: `1976 - M460B - Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p7 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p7 (traced).
 - **Outlines:** line 129 rings, 1,361 straight (4,248 mm) / 234 curved (390 mm); text 854 rings, 6,885 straight (7,636 mm) / 1,985 curved (3,078 mm)
 - **Words (OCR):** 118 in 48 lines: LtD_ · CIRCUII DESCRIPIION · M460b Input MODULE · externa] mute contro] functions · independently for · both micro- · phone and Tine sources as · may · be · required in · particular · console system
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p8 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p8%20(traced).json) (the CAD file: `1976 - M460B - Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p8 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -107,7 +107,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p8 (traced).
 - **Closed boxes:** 241
 - **Words (OCR):** 37 in 22 lines: WAAD-BECK SySteMS LTD_ · FREQUENCY · RESPONSE CHARACIERLSILCS · M46OB NPUT · MODULE EQUAL LZER · OuB · LON_FREQUENCY_section · cutiboost: +15 dB_ · FREQUENCY: 25 400 Hz _ · 100Hz · 20k 30k 40k · 20hz
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p9 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p9%20(traced).json) (the CAD file: `1976 - M460B - Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p9 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -118,7 +118,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p9 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 46 in 30 lines: WAAD-BECX SYSTems LTD_ · EREQUENCY RESPONSE CHARACTERLSTICS · M460B · NPUI MODULE EQUALLZER · OdB · MD_FREQUENCY section · boost: · to · +15 dB in · dB steps · FREQUEncY: kHz · CUT:
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p10 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p10%20(traced).json) (the CAD file: `1976 - M460B - Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p10 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -127,7 +127,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p10 (traced)
 - **Outlines:** line 158 rings, 1,449 straight (4,048 mm) / 223 curved (338 mm); text 1,091 rings, 8,532 straight (9,443 mm) / 2,842 curved (4,615 mm)
 - **Words (OCR):** 155 in 127 lines: WAAD-BECX Systems LtD_ · PARTS · LiST · MLGoB · inPuT MODULE · PART DESCRIPTION · MFG · MFG PART · NUMBER · C1 · Capacitor 33 uF/10 · Kemet
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p11 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p11%20(traced).json) (the CAD file: `1976 - M460B - Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p11 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -137,7 +137,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p11 (traced)
 - **Words (OCR):** 110 in 91 lines: WAAD-EECX Systems Ltz · PARTS LiST · M46oB inpuT · MQDULE · PART · DESCRiPTION · MFG · MFG PART · NUMBER · C38 · Capacitor 22 uf/25 · Siemens
 - **Title block:** (23, 40)–(253, 422) mm: WAAD-EECX Systems Ltz · PARTS LiST · M46oB inpuT · MQDULE · PART · DESCRiPTION · MFG · MFG PART · C38 · Capacitor 22 uf/25 · Siemens · C39 · 150 · uF/6 · Kemet · CLo · Diode · IN4O03 · CRI · Motorola 
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p12 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p12%20(traced).json) (the CAD file: `1976 - M460B - Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p12 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -147,7 +147,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p12 (traced)
 - **Words (OCR):** 113 in 103 lines: WAAD-BECX SYStems LTD, · STJ · PARTS · LiST · ML6oB · iNPuT · MQDULE · PART · DESCRiPTION · MFG · MFG PART NUMBER · R17) Potentiometer, quad
 - **Title block:** (21, 228)–(248, 424) mm: WAAD-BECX SYStems LTD, · STJ · PARTS · LiST · ML6oB · iNPuT · MQDULE · PART · DESCRiPTION · MFG · R17) Potentiometer, quad · A/B · WBS 10-011 · R18) · R19 · delete · R2o · R2i · Potentiometer · A/B · 
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p13 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p13%20(traced).json) (the CAD file: `1976 - M460B - Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p13 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -156,7 +156,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p13 (traced)
 - **Outlines:** line 158 rings, 1,476 straight (3,925 mm) / 239 curved (360 mm); text 532 rings, 4,031 straight (4,531 mm) / 1,161 curved (1,859 mm)
 - **Words (OCR):** 110 in 106 lines: WAFC-EECX · Systems LTD, · PARIS LiST · ML6ob INPuT · MODULE · PART · DESCRIPTION · MFG · PART NUMBER · MFG · R53 · Resistor
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p14 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p14%20(traced).json) (the CAD file: `1976 - M460B - Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p14 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -166,7 +166,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p14 (traced)
 - **Words (OCR):** 100 in 89 lines: WAAD-BECX Systems LTD; · PARIS LIST · M46oB inPUT · MQDULE · PART DESCRiPTION · MFG · MFG · PART NUMBER · R91 · Resistor · ILw · 59
 - **Title block:** (21, 26)–(248, 424) mm: WAAD-BECX Systems LTD; · PARIS LIST · M46oB inPUT · MQDULE · PART DESCRiPTION · MFG · MFG · R91 · Resistor · ILw · 59 · 15K · Philips · R92 · 15K · R93 · 15K · R9u · R95 · 15K · R96 · 15K · R97 · 1SK 
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p15 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p15%20(traced).json) (the CAD file: `1976 - M460B - Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p15 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -177,7 +177,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p15 (traced)
 - **Words (OCR):** 89 in 70 lines: PARTS List · M4603 INPUT · MODULE · PART DESCR IPTION · MFG · MFG · PARTNUMBER · Sw2 · Switch · Schacow · WBS · 11-002
 - **Title block:** (34, 64)–(246, 327) mm: Sw2 · Switch · Schacow · WBS · WBS 11-005 · SWS · Sw6 · SW7 · Sw8 · Sw9 · Swio · Swi · delete · Sw12 · Sw13 Switch · SW1b · WBS 11-002 · SW15 · Sw16 · WBS 11-004 · Sw17 · (part R1o,11,12) · of · SW18 
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p16 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p16%20(traced).json) (the CAD file: `1976 - M460B - Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p16 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -188,7 +188,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p16 (traced)
 - **Words (OCR):** 211 in 125 lines: WAAD-EECX Systems LTD · DESCRIPIION · AMPLIFIER_SERIES · 8-109 · The 8-109 series of · amplifiers are · utilized · an · internal · component · within various · WBS series of audio console modules
 - **Title block:** (25, 316)–(134, 431) mm: WAAD-EECX Systems LTD · The 8-109 series of · within various · amplifier mounts as
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p17 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p17%20(traced).json) (the CAD file: `1976 - M460B - Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p17 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -197,7 +197,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p17 (traced)
 - **Outlines:** line 57 rings, 958 straight (2,991 mm) / 132 curved (205 mm); text 1,892 rings, 13,588 straight (14,699 mm) / 4,071 curved (6,303 mm)
 - **Words (OCR):** 287 in 131 lines: WAAC-EECX · systems LTD_ · DESCRIPTION · 8-109 · AMPL IFIER_SERIES · Output Level · ~i0, · +30 dBm · maximum. · Po " · 221 · Power Requirements:
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p18 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p18%20(traced).json) (the CAD file: `1976 - M460B - Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p18 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -206,7 +206,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p18 (traced)
 - **Outlines:** line 183 rings, 1,501 straight (4,160 mm) / 254 curved (387 mm); text 784 rings, 6,251 straight (7,012 mm) / 1,839 curved (2,956 mm)
 - **Words (OCR):** 119 in 108 lines: WAAC-EECX Systems LTD · PARIS LiST · 8-109 · AMPL LEIER_SERIES · 8-109 · Jjv · PART · DESCRIPTION · MFG · MFG PART NUMBER · ci · Capacitor 33
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p19 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p19%20(traced).json) (the CAD file: `1976 - M460B - Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p19 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -215,7 +215,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p19 (traced)
 - **Outlines:** line 171 rings, 1,752 straight (4,092 mm) / 299 curved (476 mm); text 533 rings, 4,223 straight (4,739 mm) / 1,242 curved (1,939 mm)
 - **Words (OCR):** 99 in 87 lines: WAAD-EECX EYsTems · PARTS LiST · 8-109 AMPLIFIER SERIES · 8_109 · PART · DESCRiPTION · MFG · MFG · PARI_NUMBER · R6   Resistor i/4w 57 6k2 · Philips · R7
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p20 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p20%20(traced).json) (the CAD file: `1976 - M460B - Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p20 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -224,7 +224,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p20 (traced)
 - **Outlines:** line 73 rings, 1,348 straight (4,552 mm) / 179 curved (280 mm); text 714 rings, 5,231 straight (5,989 mm) / 1,554 curved (2,452 mm)
 - **Words (OCR):** 111 in 85 lines: WAAD-BECX systems TC_ · PARTS LiST · AMPLIFIERSERIES · 8-109 · 8-1094 · 3-1 · AlI parts per · as · 8-109 except a5 · noted · below · MFG PART NUMBER
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p21 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p21%20(traced).json) (the CAD file: `1976 - M460B - Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p21 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -233,7 +233,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p21 (traced)
 - **Outlines:** line 86 rings, 1,503 straight (4,619 mm) / 216 curved (329 mm); text 749 rings, 5,437 straight (6,196 mm) / 1,603 curved (2,615 mm)
 - **Words (OCR):** 121 in 87 lines: WAAC-=acx systems · PARTS List · 8-109 AMPLIFIER SERIES · 8-409D · 24 · AII parts as · per · 8-109 except as · noted · below · PART · DESCRiPTiON
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p22 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p22%20(traced).json) (the CAD file: `1976 - M460B - Input Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p22 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p22%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -243,7 +243,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p22 (traced)
 - **Words (OCR):** 48 in 28 lines: WAAD-BeCX Systems LtC_ · PARTS List · 8-109 AMPLIFIER SERIES · 8-109G · AII parts as per · 8-109 except as · noted · below · PART · DESC IPT ION · MFG · MFG PART NUMBER
 - **Title block:** (40, 138)–(152, 430) mm: WAAD-BeCX Systems LtC_ · 8-109G · AII parts as per · 8-109 except as · PART · DESC IPT ION · C6 · Capacitor 4.7 · pF · C11 · R1S · Resistor 1/4w · 2K4 · WBS recommends the use · manufacturers for
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p23 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p23%20(traced).json) (the CAD file: `1976 - M460B - Input Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p23 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p23%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -253,7 +253,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p23 (traced)
 - **Words (OCR):** 209 in 96 lines: WAAD-SECX systems · LTD_ · CIRcuiT DESCRIPTION · L-110 PREAMP /HIGH-PASS FILTER · The 4-110 preamplifier is · printed circuit · board designed to · be · used as an · internal component · of the WBS · M46o and
 - **Title block:** (75, 316)–(215, 430) mm: WAAD-SECX systems · LTD_ · CIRcuiT DESCRIPTION · L-110 PREAMP /HIGH-PASS FILTER · The 4-110 preamplifier is · printed circuit · internal component · of the WBS · Preceding the 4-110 · is input transfo
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p24 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p24%20(traced).json) (the CAD file: `1976 - M460B - Input Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p24 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p24%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -263,7 +263,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p24 (traced)
 - **Closed boxes:** 639; named: OF RANGE CONTROL
 - **Words (OCR):** 26 in 21 lines: Lts_ · FILTER · CHARACTERISTICS · 4-110 · PREAMP/HIGH-PASS FILTER · -10 · RANGE · OF · CONTROL · 520 · 730 · 10
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p25 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p25%20(traced).json) (the CAD file: `1976 - M460B - Input Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p25 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p25%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -272,7 +272,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p25 (traced)
 - **Outlines:** line 172 rings, 1,575 straight (4,191 mm) / 294 curved (453 mm); text 749 rings, 6,015 straight (6,829 mm) / 1,731 curved (2,773 mm)
 - **Words (OCR):** 122 in 113 lines: WAAD-EEC< Systems · PARIS · LiST · L-110 · PREAMP/HIGH-PASS FILTER · PARI · DESCRIPTION · MFG · MFG PART · NUMBER · C1 · Capacitor
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p26 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p26%20(traced).json) (the CAD file: `1976 - M460B - Input Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p26 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p26%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -282,7 +282,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p26 (traced)
 - **Words (OCR):** 56 in 39 lines: systems · PARTS List · 4-110 · PREAMP/HIGH-PASS FILTER · PART DESCRIPT ION · MFG · MFG · PART NUMBER · R14 · Resistor 1/4w 5% 4K7 · Philips · R1s
 - **Title block:** (35, 56)–(129, 429) mm: systems · 4-110 · PART DESCRIPT ION · R14 · Resistor 1/4w 5% 4K7 · R1s · R16  " · 21 · `Integrated circuit · Selected -/-57 tolerance . · t0 · EOAAVS · WBS recommends the use · manufacturers for
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p27 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p27%20(traced).json) (the CAD file: `1976 - M460B - Input Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p27 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p27%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -292,7 +292,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p27 (traced)
 - **Words (OCR):** 234 in 93 lines: CIRcuiT · DESCRIPTION · 4-126 EQUALIZER FILTER · AMPLIFIER · The 4-126 equalizer filter · amplifier is · printed circuit board · utilized 25 an · internal component · in certain WBS · L60 series equalizer · modules.
 - **Title block:** (201, 186)–(263, 344) mm: printed circuit board · L60 series equalizer · variable filter · Frequency , Mid Frequency and High · respectively · portion of the audio · be summed · module. In conjunction with · oi the main · equa
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p28 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p28%20(traced).json) (the CAD file: `1976 - M460B - Input Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p28 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p28%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -301,7 +301,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p28 (traced)
 - **Outlines:** line 62 rings, 876 straight (3,653 mm) / 141 curved (220 mm); text 1,320 rings, 9,734 straight (10,748 mm) / 3,044 curved (4,969 mm)
 - **Words (OCR):** 169 in 126 lines: WAAD-BeCx Systems LtD · PARTS List · 4-126 EQUALIZER · FILTER AMPL IFIER · KaavJ · PART DESCRIPTION · MFG · MFG PART NUMBER · c1 · Capacitor 6.8 · uF/6 · Kemet
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p29 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p29%20(traced).json) (the CAD file: `1976 - M460B - Input Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p29 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p29%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p29 (traced)
 - **Outlines:** line 173 rings, 1,672 straight (4,080 mm) / 296 curved (456 mm); text 448 rings, 3,570 straight (3,995 mm) / 1,035 curved (1,601 mm)
 - **Words (OCR):** 106 in 91 lines: PARTS List · L- 26 EQUALiZER FiltE3 AMPLIEIER · PAFT Description · MFG · MFG PART NUMBER · R1 · Resistor 1/4w · 10k · Philips · R2 · 10k · R3
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p30 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p30%20(traced).json) (the CAD file: `1976 - M460B - Input Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p30 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p30%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -320,7 +320,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p30 (traced)
 - **Words (OCR):** 64 in 46 lines: WAAC-Sack systems · PARTS LisT · 4-126 EQUALIZER FILTER AMPLIFIER · MFG PART · NUMBER · PART · DESCRiPTION · MFG · RLS · Resistor · 1/4w · 6K2
 - **Title block:** (35, 52)–(129, 432) mm: WAAC-Sack systems · PART · DESCRiPTION · RLS · Resistor · 1/4w · RL6 · delete · RL7 · Resistor 1/4w · R4a · RL9 · RsO · delete · 21 · Integrated Circuit · 22 · 23 · 24 · 25 · 26 · 27 · WBS recommends 
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p31 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p31%20(traced).json) (the CAD file: `1976 - M460B - Input Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p31 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p31%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -333,7 +333,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p31 (traced)
 - **Words (OCR):** 231 in 169 lines: TNPMT · SELECTOR · crophorc Jirect, Ficrconone · Swie · gna source · WBS · (PAD OFF · High Pass · Jdiusuint · cuc-ot joint · cortro · Erequencies From
 - **Title block:** (159, 18)–(417, 314) mm: TNPMT · SELECTOR · crophorc Jirect, Ficrconone · Swie · gna source · WBS · (PAD OFF · High Pass · Jdiusuint · cuc-ot joint · cortro · Erequencies From · continudus · Filter · contro Tuy · 2251 · adjus
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p32 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p32%20(traced).json) (the CAD file: `1976 - M460B - Input Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p32 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p32%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -347,7 +347,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p32 (traced)
 - **Title block:** (140, 4)–(384, 57) mm: ISS JoD IcKD] USED ON MATI . · WARD-BECK BYBTEMS LTD_ · 3540 · WBS · DRN DNM · M460 B · FINISH · DATE DEC · INPUT MODULE · CKD · Quut · FUNCTIONAL DIAGRAM · SCALE · 460 = 01-003 · TOLS
 - **Wiring (first pass):** 171 connected wire groups from 366 runs; labelled ends: 129 mm → PRE / Post, PRE / PoST; 121 mm → EONTROL; 79 mm → INseRT JACKS PHASE, ON; 68 mm → REVERB, FB1, FB2, m + >FB2; 66 mm → SOLO
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p33 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p33%20(traced).json) (the CAD file: `1976 - M460B - Input Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p33 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p33%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -361,7 +361,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p33 (traced)
 - **Words (OCR):** 8 in 8 lines: Acou · #PZ 4 · 3.04 · ncastop /4F · 'Av? · Nota · Kvoh · NQTE
 - **Wiring (first pass):** 178 connected wire groups from 1,210 runs; labelled ends: 336 mm → Nota; 300 mm → ncastop /4F; 11 mm → 'Av?; 8 mm → 3.04; 7 mm → 'Av?
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p34 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p34%20(traced).json) (the CAD file: `1976 - M460B - Input Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p34 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p34%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p34 (traced).dxf`).
 
 ### Page 35
 
@@ -372,7 +372,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p34 (traced)
 - **Closed boxes:** 24; named: WBS; MPL
 - **Words (OCR):** 103 in 89 lines: Pio? · Swis · Shia · Sw1o Sw9 5k8 Sw7 SWS · Sws Sw4 · Sw3 · Sn2 · Othe? · 4K7 · Rmo · Shi? · 5wib
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p35 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p35%20(traced).json) (the CAD file: `1976 - M460B - Input Module p35 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p35 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p35%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p35 (traced).dxf`).
 
 ### Page 36
 
@@ -383,7 +383,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p35 (traced)
 - **Words (OCR):** 161 in 115 lines: Mlc A 1 · Mic · NC · NC · NC B 2 · Mic Shie_d · GND · GND · c 3 PA · LEft Out · Left OUt · PA
 - **Title block:** (271, 6)–(420, 53) mm: WBS WAAD-BECK · SYSTEMS LTD_ · DRN · ML60B · DATE J#N 77 · INPUT · MODULE · CONNECTOR REAR VIEW · CKD · SCALE · TOLS_ · IsS_
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p36 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p36%20(traced).json) (the CAD file: `1976 - M460B - Input Module p36 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p36 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p36%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p36 (traced).dxf`).
 
 ### Page 37
 
@@ -395,7 +395,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p36 (traced)
 - **Words (OCR):** 114 in 108 lines: E3 · 118y · ~21.5v · 213 · 02 · Ph3c45 · 242102 · 03 · 356 · 33/10 · Pn3569 · Op
 - **Title block:** (351, 0)–(418, 34) mm: Issu oate · WBS WAAD-BeCk BystemB · 10? · AMPLIFIER · c R_ · SCHEMATiC · SCALE · 8-109 · 02-00i
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p37 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p37%20(traced).json) (the CAD file: `1976 - M460B - Input Module p37 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p37 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p37%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p37 (traced).dxf`).
 
 ### Page 38
 
@@ -407,7 +407,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p37 (traced)
 - **Words (OCR):** 102 in 91 lines: E2 · 33/10 #C2 · 23/ · R16 22k · ~Ci · LRi · R2 · 47k · 22k · R4 Gk? · ~Ri8 · RS
 - **Title block:** (134, 2)–(432, 130) mm: ES · WBS · 8-109 · z2o/iec16 + · ECol93 40 · 4008 · ~R36 tK7 · ~R374K7 · ISSUE DATE · REVISION · APP · EG · WBS WARD-BECK SYSTEMS · DRN GEB · 8 = 109 · ENG.MRW 4/78 · BOOSTER AMPLIFIER · COMPONENT LAY
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p38 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p38%20(traced).json) (the CAD file: `1976 - M460B - Input Module p38 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p38 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p38%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p38 (traced).dxf`).
 
 ### Page 39
 
@@ -421,7 +421,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p38 (traced)
 - **Title block:** (352, 17)–(432, 41) mm: ISSUE · WBS · WAAD-BECK BY9TEMS · 8 - 109
 - **Wiring (first pass):** 61 connected wire groups from 396 runs; labelled ends: 198 mm → 33, 2N4037, +K7, 39; 150 mm → R3o, 6.3, vzw, R34; 150 mm → R32, 6.8, V2 w, R35; 142 mm → 39, RIa, I8v, c4; 141 mm → E3, 213, 2N2102
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p39 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p39%20(traced).json) (the CAD file: `1976 - M460B - Input Module p39 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p39 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p39%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p39 (traced).dxf`).
 
 ### Page 40
 
@@ -433,7 +433,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p39 (traced)
 - **Words (OCR):** 97 in 94 lines: 067 · E2 · ~ci · 23/10 · ~RI6 22k · LRi · R2-4Zk · 22k · RS 30k · ~R2z 4K7 · ~Ri8 · ~R2i 4K7
 - **Title block:** (132, 2)–(432, 132) mm: WBS · E5 · 8-109 · z2o/i2c16+ · 220/60 · AL · 4008 · ML · ~R3g 4K7 · ~R374K7 · REVISION · (ISSUE DATE · APP · EC · WBS · WARD-BECK SYBTEMS · DRN: GEB · 8 ~ 109A · ENG.MRW 4/78 · OUTPUT AMPLIFIER · CKD
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p40 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p40%20(traced).json) (the CAD file: `1976 - M460B - Input Module p40 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p40 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p40%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p40 (traced).dxf`).
 
 ### Page 41
 
@@ -448,7 +448,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p40 (traced)
 - **Title block:** (138, 5)–(420, 58) mm: ISS MOD  [CKD · USED ON · MATL · a40 · WBS WARD-BECK · SYSTEMS LTDS · 3 lodk · pock · DRN Ro · DATE 8MARZ · 4-110 · Rut · FINISH · PRE-AMPIHP FILTER · Rc · CKD_ · Juv · SCALE · SCHEMATIC
 - **Wiring (first pass):** 58 connected wire groups from 278 runs; labelled ends: 501 mm → R2, ISk, R4, 22k; 297 mm → 94, 2N4403, R6, IOpF; 227 mm → RI, 1k5, RI2, 150; 202 mm → COMPONENT, E9, 0-21v.; 150 mm → 47pF, Acie, 2N5209, R6
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p41 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p41%20(traced).json) (the CAD file: `1976 - M460B - Input Module p41 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p41 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p41%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p41 (traced).dxf`).
 
 ### Page 42
 
@@ -460,7 +460,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p41 (traced)
 - **Words (OCR):** 43 in 37 lines: 28 · 332K · 29 · 8387 · 9k · 22/16 · 470K · Nv · 33/2 · 2 & 8 $ 2 · ISles · NQTES
 - **Title block:** (286, 2)–(390, 50) mm: WBS WARD-BECK · Dm · DRN: · 4-110 · DATEJOJUN74 · PRE-AMP/HP FILTER · CKDEZ · SCALE · COMPONENT LAYOUT · TOLS _ · 4-110-06-001
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p42 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p42%20(traced).json) (the CAD file: `1976 - M460B - Input Module p42 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p42 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p42%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p42 (traced).dxf`).
 
 ### Page 43
 
@@ -472,7 +472,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p42 (traced)
 - **Words (OCR):** 118 in 107 lines: 25<Az · MD · E3ECLENGY · RIL · 23 :22 · 23 · 5<2 · 321 · 318 · 22 · c3i6 · 2/6
 - **Title block:** (344, 2)–(411, 32) mm: WBS · WAAD-BECK BYBTEMB LTD · DRA · 1-126 · DATE · CKD · EQUALIZER FIlter · GCALE · AMPLIFIER SCHEMATHC · Tols , · 4-126-02-001
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p43 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p43%20(traced).json) (the CAD file: `1976 - M460B - Input Module p43 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p43 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p43%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p43 (traced).dxf`).
 
 ### Page 44
 
@@ -485,7 +485,7 @@ Every curve, box, word and wire group: [1976 - M460B - Input Module p43 (traced)
 - **Words (OCR):** 95 in 82 lines: t8 · E2 · E5 · C7 · C6 · R2o" | R19cig C18 · 25 · C21R21 R14 LMi453 · R24 R18 · C4 · R7 · 21
 - **Title block:** (289, 6)–(343, 49) mm: WBS · DM · DJUL74 · DRN: · cKD · GCALE
 
-Every curve, box, word and wire group: [1976 - M460B - Input Module p44 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p44%20(traced).json) (the CAD file: `1976 - M460B - Input Module p44 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - Input Module p44 (traced).json](../MANUALS/1976%20-%20M460B%20-%20Input%20Module%20p44%20%28traced%29.json) (the CAD file: `1976 - M460B - Input Module p44 (traced).dxf`).
 
 ## Full text
 

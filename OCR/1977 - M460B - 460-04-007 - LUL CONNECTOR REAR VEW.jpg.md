@@ -25,7 +25,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Words (OCR):** 161 in 112 lines: MiC · MIc · NC · NC · NC B 2 · Mic Shielo · GND · GND · PA C 3 PA · Left Out · OUt · D 4 RS2
 - **Title block:** (270, 5)–(420, 53) mm: WBS WARD-BECK SySTEMS LTD · DRN_ · M460B · DATE · INPUT MODULE · CONNECTOR REAR VIEW · CKD · [SCALE · Is: · TOLS
 
-Every curve, box, word and wire group: [1977 - M460B - 460-04-007 - LUL CONNECTOR REAR VEW (traced).json](../MECHANICAL/1977%20-%20M460B%20-%20460-04-007%20-%20LUL%20CONNECTOR%20REAR%20VEW%20(traced).json) (the CAD file: `1977 - M460B - 460-04-007 - LUL CONNECTOR REAR VEW (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M460B - 460-04-007 - LUL CONNECTOR REAR VEW (traced).json](../MECHANICAL/1977%20-%20M460B%20-%20460-04-007%20-%20LUL%20CONNECTOR%20REAR%20VEW%20%28traced%29.json) (the CAD file: `1977 - M460B - 460-04-007 - LUL CONNECTOR REAR VEW (traced).dxf`).
 
 ## Full text
 

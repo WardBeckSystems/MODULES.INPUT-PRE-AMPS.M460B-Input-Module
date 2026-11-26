@@ -23,7 +23,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Title block:** (350, 17)–(432, 35) mm: WBS WARD-BECK BystemS · 8 - 109
 - **Wiring (first pass):** 58 connected wire groups from 409 runs; labelled ends: 215 mm → RB, cio, 4-7p; 210 mm → 390, 23, -2i-5Y, 219; 198 mm → 2N4037, R2s, 4k7, 390; 166 mm → PN3c+5, Rib, 22k, 28 p; 155 mm → Pn3c45, 42, IOp, pn3scs
 
-Every curve, box, word and wire group: [1976 - M460B - 8-109-02-001 - ISSUDATE REVISION (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%208-109-02-001%20-%20ISSUDATE%20REVISION%20(traced).json) (the CAD file: `1976 - M460B - 8-109-02-001 - ISSUDATE REVISION (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 8-109-02-001 - ISSUDATE REVISION (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%208-109-02-001%20-%20ISSUDATE%20REVISION%20%28traced%29.json) (the CAD file: `1976 - M460B - 8-109-02-001 - ISSUDATE REVISION (traced).dxf`).
 
 ## Full text
 

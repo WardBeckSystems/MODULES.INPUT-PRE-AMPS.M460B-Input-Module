@@ -23,7 +23,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Title block:** (138, 5)–(420, 58) mm: ISS MOD ICKD: · USED ON · MATL _ · E esk- 44 · WBS WARD-BECK · SYSTEMS LTD_ · Ibodk · DRN Do · 4-110 · DATE 8MARZ4 · Ru · FINISH · PRE-AMP/HP FILTER · JIRc · CKD: L4 · [SCALE · SCHEMATIC · I391PKM
 - **Wiring (first pass):** 58 connected wire groups from 290 runs; labelled ends: 482 mm → C6, R2, ISk, AMPLIEIER; 370 mm → C12, 22/10, 94, 2N4403; 228 mm → RI, 1k5, RI2, 150; 202 mm → COMPONENT, E9, 0-21v; 150 mm → 47pF, 2N5209-, R6, 20k
 
-Every curve, box, word and wire group: [1976 - M460B - 4-110-02-001 - MPONENT DESICN RIG CIG (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%204-110-02-001%20-%20MPONENT%20DESICN%20RIG%20CIG%20(traced).json) (the CAD file: `1976 - M460B - 4-110-02-001 - MPONENT DESICN RIG CIG (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 4-110-02-001 - MPONENT DESICN RIG CIG (traced).json](../SCHEMATICS/1976%20-%20M460B%20-%204-110-02-001%20-%20MPONENT%20DESICN%20RIG%20CIG%20%28traced%29.json) (the CAD file: `1976 - M460B - 4-110-02-001 - MPONENT DESICN RIG CIG (traced).dxf`).
 
 ## Full text
 

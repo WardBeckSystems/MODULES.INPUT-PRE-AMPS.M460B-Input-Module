@@ -22,7 +22,7 @@ Wiki page: [M460B](../../../../PAGES/M460B.md)
 - **Words (OCR):** 246 in 185 lines: SELEcTOR switch Swi: Sclects igna caurcr · crconone Jirect · Jicrconont · 20 08 · M4608 · Tine TEed · 'High Pass FiLteR conero · adjustnnt of cutoff · continucus · PHASE · revere · Ahon
 - **Title block:** (345, 8)–(432, 36) mm: ISSL · WBS · WARO-BECK SYSTEMS · M46ob · ENG. · INPUT MODULE · CKo · FRONT PANEL
 
-Every curve, box, word and wire group: [1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE (traced).json](../MECHANICAL/1976%20-%20M460B%20-%20460-04-013%20-%20IXI%20CONTROL%20FUNCT%20IONS-%20NOTE%20THAT%20THE%20(traced).json) (the CAD file: `1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE (traced).json](../MECHANICAL/1976%20-%20M460B%20-%20460-04-013%20-%20IXI%20CONTROL%20FUNCT%20IONS-%20NOTE%20THAT%20THE%20%28traced%29.json) (the CAD file: `1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE (traced).dxf`).
 
 ## Full text
 
