@@ -1,0 +1,114 @@
+{
+ "module": "M460B",
+ "source": {
+  "file": "MANUALS/1976 - M460B - Input Module (2).pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.78,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "TIle M460B Is a co.binatlon INPUT/ EQUALIZER.odule, designed t o accept inputs i gna ls originating fro. either a. i c r o phone oral i ne source. The unit processes the inputs i gna las required and routes It to thea ppro pr fl te points wlthlrl the. lx lrl g console syste•.",
+    ".!l1..e!!.1 The INPUT SELECTORs wit th SWl provides a choice of connect ing the input transformer TIto either the MICROPHONE source directly, or vfl a 2D dB PAO. I neither case, the input impedance oft he unit 15 10 tines higher than the source Impedance. In the LINE position, the M4608 operates IS abridging amplifier, present ing 30t o hlll impedance tot hes our c e. Both HIC and LIME inputs are transformer coupled. With the I NPU-T SELECTOR i n the OFF posit ion, all inputs ere disconnected and the lI\\odule input is terminated. Pream plifier The u co nda ry side of TI 15 connected tot he 4-11 D Pr U lllp / Hi g h_ pass filter. The 4-11 0 s e eves a s a low-noi u pn a_ p andre t s e s the input levels s u ff ic ie ntl y for further processing within the consoles ys tee. SENSITIVITY control RI2 per e t t s continuous level adjus t_ ent o fall input signals, allowing a total range of 30 dB.",
+    "HIGH-PASS Fl1ter SwitCh SW17 Is incorporated int he HIGH-PASS filter control RI D/II. Vith Rl0 / 11 positioned fully counterclockwise, SV17 oe s s es the output of the 4-11 0 directly t o the equalizer i nu rt switch SW13. Dnce R10/ll is rotated. way f rOlll the ex t r ell eco unterclockwiu position, '-12 dB/oct ave hig h-pus f ll ter is inserted. The -3 dB roll o H point is cont lrluous ly adjusta.ble fro. 25 to 250 Hz.",
+    "EQUALIZER Section p s.",
+    "The output of the 4 · 110 prea rlpl1fle r 15 routed too ne o·f the",
+    "normally closed ce neec es of the EQUALIZER INSERTs witch SW13 to allow bypassing oft he equalizer. Additionally, the pr eamp",
+    "output 15 fed t o ZI, the first of four cascaded summing",
+    "ampl1fi e rs Zl through Z4."
+   ]
+  },
+  {
+   "heading": "CIRCUIT DESCRIPTIOII'",
+   "paragraphs": [
+    "ZI through Z4 serve a s.hi ng. nd t s e let t cn • • plff1 e r s. They. reused to.lx the prillary Inputs fg n.1 wlth I correction slgn ll de rill e d fro. til l!! outputs of the 4 -126 f f lUr networ h, resulting I n raising o r lowering the rev e t o f sete c eee portions oft he audios pec true. Addition. J1y, they ho late thl!! filter networks fro. each other and pre lle n t inU r action bet'lli en them, resulting fn accurate andre peat able equalizing pert c r-eene e •",
+    "Thl CUT/BOO ST controls R2l, R22 and R23 feed ani n phase or out o f phase proportional sf gna l tot he buffer alllpl if i er s Z5, Z6 and Z8 respect tve l y, The tevet o f the signal fed to the buffers is dependent on the CUT/800S T controls etti ng with maximum level occurring at either end of the potent te ee t e r, and a nulls e tt inge t the pot entiometer mid position. Full c t ec ke t se or full counterclockwise potent iometer settings '11111 result int he maximum eq ua ltza t ion o·f +15 dB and -15 dB respect iv el y.",
+    "The outputs of buffer amp lffi ers Z5, Z6 and Z8 are routed tot he 4-126 printed circuit board which contains three ba ndpa ss filters correspond ing to each of the threes e c t ions oft he equalizer.",
+    "The HIGH FREQUENCY section of the unit pr ov1de s SHELVIHG t)'P l!! o f equalization. R21 deter. fnes the • • ou nt of CUT or BOOST with a toUl range f rOIl -IS to +15 dB. Fr eq ue nc)' is c ee t t a uousl)' adjustable fro. 1.6 t o 25 kHz b)' Rl /R2. The f r e q ue nc)' cali brat ion refers t o the 3 dB r o l lo ff point when the unit is operating at the Ilu l. u. a u ihb le CUT o r BOOST o f 15 d B. The MID FREQUENC\"l!!qua liuti on is adjusted by R4/R5, covering a f req ue nc)' range fro. 0.4 t o 6.4 kHz. CUT/BOOST is controlled by R22. R6 adjusts the Q-hc tor. Po s ith e o r ne ga the bell shaped PEAKING e q ull l1 za t lon is ap pl1c~ bl ein the. l d -f re q ue nc)' range.",
+    "The LOW FREQUENCY equalization operate s s 1ll11 a r1 y t o the high",
+    "f reque nc)' section. R7/RB adjusts the frequency r llnge frolll",
+    "25 to 400 Hz while R23 cont r o l s CUT or BOOST.",
+    "The threes i gna ls wh l c h lene the 4 -126 filter are \"c orr ectlo n slg na ls either in-phas e or IBO de gre!!s out -o f -p hase with the equalizer input and band pass 11111 ted as deterlilned by thee quel f z e r sect ion and control settings. These \" correction s lgnals ar-e then sUllllled together with the prl lury (Input) sfg n\"l by the operatlon\" l u p l if l e r s Zl, Z2 a.nd Z4 thus for ll1ng thee que t f zed outputs ignal.",
+    "Thh concept of adding\" corrections t qna l together with the 1ncomlng slgn\"l t o for lll the eqll\"lized s i llnal is directly responslble fort he low no he and distortion capabilities of this unit.",
+    "The compounds i gn alas lIene ra.ted al o nll the en t l r e process l ng che tn a ppe a r-s at the output of Z4. From here it is routed too ne oft he normally open contacts o f the EQUALIZER INSERTs witch S1I13.",
+    "t bus, w1t h SIII 3 depressed. the euu e t t aed s l gna l t s fed tot he output ampl t rte r a - to gA. In additlon. as SII13 1$ depressed. the LEO fndfca tor is ae t tve eee.",
+    "B-I09AOutput Arlpl1fl e r \"nd INSERT The a-l 0gA u pli f l e r ra.hes the signal t o -10 dB.. nOllf na ll y. The output 1$ acth e l y balanced and fed to the -lnsert polnt\" at pfns 22 and Z o f lIodule connector PI. Th h future allows the use of insert jacks. per.htlng t o lnse rt a.ncillary equlplle nt 1nto the lIa f n. hing slgna l pa.th.",
+    "PHASE Reversal The sf gna l 1$ returned to the llodule yia plns 21 andy of PI and routed through the PHASE REVERSAL swf tch SII2 t o the CHANNEL ON switch S1I21."
+   ]
+  },
+  {
+   "heading": "PREFADE -LIS TEN (PFL)",
+   "paragraphs": [
+    "The b rfdgfng takeoff for the PFL output r s p fcked up between",
+    "SII2 and 51121.",
+    "WAF;O ·SECK SYSTEMS LTC."
+   ]
+  },
+  {
+   "heading": "K4 60 B INPUT KOOULE",
+   "paragraphs": [
+    "CHANNEL ON Switcli Tile CHANNEL ON switc ll SWZI controls all outputs oft ile 1I0 d u ie with tile exception oft ile PFl out put.",
+    "iM!IB.",
+    "Following SWZ l, tiles i gnal is brouglit out of tile e e e ute via pins ZO and X of PI for insertion of a balanced fad er. Tile output oft he fade r is returned to thea e d ul eon pins 19 and W of P1. The Input side o f the fader also serves as a pickup point fort he PREFADE REVERBERATION SEND (RS). the PREFADE FOl DBACK (FB) and the PREFADE PUBLIC ADDRESS { Pl.} channels y ia switches SillS. SWIg and SW4 respectively.",
+    "8 ·109 Booster AMp l i fie r The B·I 09 booster a llpl 1fier operates with a ga 1n of 15 dB andre c o.,ers t hl! loss tnc urr-e e wilen the fader is placed i nits nOllli nal 15 dB in · ha ndpos i t ion.",
+    "Main Outputs and PAN Control The outputs ig nal o f the 8 ·l09 e ep t t tt er feedS the left and right. a 1n outputs.,ia PAN switch SW14 and PAN control RZ4 through RZ7. It also provides the feed for the DIRECT output. and. via SWI6. for the SOLO output. Additionally. feeds are supplied to tile POSTFADE RS. FB and PI. channels.,1a tile appropriate switches and level controls.",
+    "PRE/P OST Selector Switches and Level Controls PRE/POST selection of tile RS, FB and PI. channels is facilitated by switcll es SWlB. SW19 and S\\l4 respect ive l y; each s wl t c ll is followed by its associated level cont r-cl. The outputs of the tevet controls are fed t o the summing outputs via tile appropriate switches and level controls.",
+    "Auxiliary Functions",
+    "DC controls and logic functions are provided t hrcuqh the INPUT SELECTOR swltcll Sill and the CHANNEL ON switch SWZl to operate"
+   ]
+  },
+  {
+   "heading": "\"46DB INPUT KODULE",
+   "paragraphs": [
+    "e xte r-na l Mute control functions independently forboth etc r cphone and lines ou rces, as.. ay be required ina particular console SysteM. Additional de control cont acts area va ila bl eon the SOLO swt t c h, the PA switch, the PFL switch and the CHANNEl ON switch to allow operation of external relays and /o rillUMination of the CHAItNEL ON button.",
+    "Power Supply Decoup ltng",
+    "An acr t ve power supply decoupllng net wo r l:. consisting of Ql through Q6 provides a high degree of holatio n between the M460B and the tZs volt supply r e t ts. Transistors Q5 and Q6 ser-ve a s current e c n t t cr-s and will 11Q1it the current flowing thr-o ugh the pus t ranshto rs Q3 and Q4 i nth e event that excessive power supply de. a nds should arts e a s ares u lt of COMponent f.flure.",
+    "p s.",
+    "FREOUENcy RESPONSE CHARACTERISTICS"
+   ]
+  },
+  {
+   "heading": "11460B INPUT MODULE EOUAL I I ER",
+   "paragraphs": [
+    "., \"i,I"
+   ]
+  },
+  {
+   "heading": "I I",
+   "paragraphs": [
+    "LOW FREOUEN CY section -, Ii CUT/ BOOST: tl Sea. -,",
+    "FREQUENCY: 25 & 400 Hz."
+   ]
+  },
+  {
+   "heading": "I I",
+   "paragraphs": [
+    "\"'\" 101<»0.000"
+   ]
+  },
+  {
+   "heading": "7: III",
+   "paragraphs": [
+    "-, I;.: I 'I"
+   ]
+  },
+  {
+   "heading": "-, S 1",
+   "paragraphs": [
+    "\"I D FREQUENCY section",
+    "CUT/ BOOST: !15dB. -,",
+    "FREQUENCY: 0.4 & 6.4 kHz.",
+    "Q: 2. ·\"tllIl.,~... _ •.co."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "module": "M460B",
+ "title": "M460B_INPUI_MODULE",
+ "source": {
+  "file": "MANUALS/1976 - M460B - P002 - 1-1.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivities",
+   "key": "input_sensitivity",
+   "text": ";8j 299~€=b 02 03 7u:67e076 T Fnf ';mA 3'aD Line 10 to +10 dBm (ref 600 ohm source Fj < Mic Pad -50 20 dBm (ref 150 ohm source Mic -70 to -40 dBm (ref 150 onm source",
+   "quantities": [
+    {
+     "from": 10,
+     "to": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 20,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    },
+    {
+     "from": -70,
+     "to": -40,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "±0.25 dB from 30 Hz to 20 kHz (Equalizer bypa s $ Position. 125 dBm EIN at maximum SENSITIVITY (20 Hz to 20 kHz).",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 125,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "",
+   "items": [
+    {
+     "name": "Harmonic distortion",
+     "text": "Less than 0.259 THD from 30 Hz to 20 kHz at +28 dBm or Less Less than 0.1% at kHz at +28 dBm output.",
+     "quantities": [
+      {
+       "value": 30,
+       "unit": "Hz"
+      },
+      {
+       "value": 20,
+       "unit": "kHz"
+      },
+      {
+       "value": 28,
+       "unit": "dBm"
+      },
+      {
+       "value": 0.1,
+       "unit": "%"
+      },
+      {
+       "value": 28,
+       "unit": "dBm"
+      }
+     ],
+     "key": "harmonic_distortion"
+    }
+   ]
+  },
+  {
+   "name": "Source impedances",
+   "key": "source_impedance",
+   "text": "Line Mic 150/600 ohms ba lanced/ unbalanced 150 ohms ba lanced/unbalanced",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedances",
+   "key": "input_impedance",
+   "text": "Line Mic 30,000 ohms 1,500 ohms than 100 ohms (at outputs of {ei89 or 8-1094 amplifiers only) _ 600 ohms balanced (at insertion point)",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 1500,
+     "unit": "ohms"
+    },
+    {
+     "value": 100,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "",
+   "items": [
+    {
+     "name": "Load impedance",
+     "text": "Output Leve] 10 dBm nomina ] +30 dBm maximum. (At outputs of 8-109 or 8-1094 amplifiers only) _ Input and output termina ] s designated by numbers are in Phase Pha $ ing:",
+     "quantities": [
+      {
+       "value": 10,
+       "unit": "dBm"
+      },
+      {
+       "value": 30,
+       "unit": "dBm"
+      }
+     ],
+     "key": "load_impedance"
+    }
+   ]
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "+25 volts dc, 90 mA nomina], 250 mA maximum",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 90,
+     "unit": "mA"
+    },
+    {
+     "value": 250,
+     "unit": "mA"
+    }
+   ]
+  }
+ ]
+}
