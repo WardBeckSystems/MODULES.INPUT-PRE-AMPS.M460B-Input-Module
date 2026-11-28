@@ -1,5 +1,5 @@
 # 1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8.jpg
-Wiki page: [M460B](../../../../PAGES/M460B.md)
+Wiki page: [M460B](../)
 
 
 - **Year:** 1974 (title block date)

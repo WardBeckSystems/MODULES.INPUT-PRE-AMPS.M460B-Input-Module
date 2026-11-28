@@ -1,5 +1,5 @@
 # 1976 - M460B - Input Module.pdf
-Wiki page: [M460B](../../../../PAGES/M460B.md)
+Wiki page: [M460B](../)
 
 
 - **Year:** 1976 (found in this file: "OCT 76")

@@ -1,5 +1,5 @@
 # 1976 - M460B - P001 - Title Page.jpg
-Wiki page: [M460B](../../../../PAGES/M460B.md)
+Wiki page: [M460B](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

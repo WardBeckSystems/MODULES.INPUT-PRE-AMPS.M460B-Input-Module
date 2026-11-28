@@ -1,5 +1,5 @@
 # 1976 - M460B - 4-110-02-001 - MPONENT DESICN RIG CIG.jpg
-Wiki page: [M460B](../../../../PAGES/M460B.md)
+Wiki page: [M460B](../)
 
 
 - **Year:** 1976 (module estimate (labelled))

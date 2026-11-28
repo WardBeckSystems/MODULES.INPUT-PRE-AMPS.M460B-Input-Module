@@ -1,5 +1,5 @@
 # 1976 - M460B - 8-109-06-001 - RYLU COMPONENT LAYOUT.jpg
-Wiki page: [M460B](../../../../PAGES/M460B.md)
+Wiki page: [M460B](../)
 
 
 - **Year:** 1976 (module estimate (labelled))
