@@ -4,13 +4,12 @@ Ward-Beck Systems M460B, 1974|7. Wiki page: [M460B on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 52 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 12 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 298 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 13 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 15 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 51 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 297 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 14 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 59 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -172,6 +171,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKM2xCY0dESjgtTmc/view?resourcekey=0-thMDqiQmJzzmixXRQ-7DAw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKM2xCY0dESjgtTmc&resourcekey=0-thMDqiQmJzzmixXRQ-7DAw" width="240" alt="1976 - M460B - 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE.jpg"></a><br><sub>1976|9 · 460-04-013 - IXI CONTROL FUNCT IONS- NOTE THAT THE · <a href="MECHANICAL/1976%20-%20M460B%20-%20460-04-013%20-%20IXI%20CONTROL%20FUNCT%20IONS-%20NOTE%20THAT%20THE%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeUxGSm5QdjZhc3c/view?resourcekey=0-aRtlufgDK-_uJqZMAVCv9A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeUxGSm5QdjZhc3c&resourcekey=0-aRtlufgDK-_uJqZMAVCv9A" width="240" alt="1977 - M460B - 460-04-007 - LUL CONNECTOR REAR VEW.jpg"></a><br><sub>1977|10 · 460-04-007 - LUL CONNECTOR REAR VEW · <a href="MECHANICAL/1977%20-%20M460B%20-%20460-04-007%20-%20LUL%20CONNECTOR%20REAR%20VEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M460B.stl`](MECHANICAL/M460B.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M460B)
+
+- **Size:** 50.95 × 318.24 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 24 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M460B - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M460B.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -183,13 +191,9 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaUl5VXRsLXRDM1k/view?resourcekey=0-znHsyXJhKsgo83fsGsLiuA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaUl5VXRsLXRDM1k&resourcekey=0-znHsyXJhKsgo83fsGsLiuA" width="240" alt="1976 - M460B - 8-109-06-002 - OUTPUT AMPLIFIER.jpg"></a><br><sub>1976|9 · 8-109-06-002 - OUTPUT AMPLIFIER · <a href="SCHEMATICS/1976%20-%20M460B%20-%208-109-06-002%20-%20OUTPUT%20AMPLIFIER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1f4yPwIY21WfTisRgUt7D-UEhYfkNBNrM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1f4yPwIY21WfTisRgUt7D-UEhYfkNBNrM" width="240" alt="1976 - M460B - Input Module Schematic.jpg"></a><br><sub>1976|9 · Input Module Schematic · <a href="SCHEMATICS/1976%20-%20M460B%20-%20Input%20Module%20Schematic%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 4-110-02-001 - 4-110 PRE-AMP HP FILTER SCHEMATIC - DRN DM - ISS 8.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M460B - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -291,7 +295,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1976 - M460B - Input Module p39.kicad_sch](KICAD/1976%20-%20M460B%20-%20Input%20Module%20p39.kicad_sch)
 - [1976 - M460B - Input Module p41.kicad_sch](KICAD/1976%20-%20M460B%20-%20Input%20Module%20p41.kicad_sch)
 - [M460B.kicad_sym](KICAD/M460B.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
